@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tisser"
+version = "0.1.0"
+description = "Keep your French from slipping: weave it into the AI replies you already read."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+# Only the nightly pass needs a model. Left optional so installing Tisser never
+# moves an SDK version an existing app has pinned.
+reflect = ["claude-agent-sdk"]
+
+[tool.setuptools]
+packages = ["tisser"]
+
+[tool.setuptools.package-data]
+tisser = ["seed.json"]

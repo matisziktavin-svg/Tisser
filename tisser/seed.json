@@ -1,0 +1,3163 @@
+[
+ {
+  "kind": "word",
+  "fr": "tiroir",
+  "en": "(m.) drawer",
+  "level": "B1",
+  "forms": [
+   "tiroirs"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "poussière",
+  "en": "(f.) dust",
+  "level": "B1",
+  "forms": [
+   "poussières"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "éponge",
+  "en": "(f.) sponge",
+  "level": "B1",
+  "forms": [
+   "éponges"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "se débrouiller",
+  "en": "to manage, get by",
+  "level": "B1",
+  "forms": [
+   "débrouille",
+   "débrouiller",
+   "débrouillé",
+   "débrouillais",
+   "débrouillera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "rater",
+  "en": "to miss, fail (informal)",
+  "level": "B1",
+  "forms": [
+   "rate",
+   "rater",
+   "raté",
+   "ratais",
+   "ratera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "épuiser",
+  "en": "to exhaust, use up",
+  "level": "B1",
+  "forms": [
+   "épuise",
+   "épuiser",
+   "épuisé",
+   "épuisait",
+   "épuisera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "déploiement",
+  "en": "(m.) deployment",
+  "level": "B1",
+  "forms": [
+   "déploiements"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "bogue",
+  "en": "(m.) bug (software)",
+  "level": "B1",
+  "forms": [
+   "bogues"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "mise à jour",
+  "en": "(f.) update",
+  "level": "B1",
+  "forms": [
+   "mises à jour"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "chantier",
+  "en": "(m.) construction site; ongoing project",
+  "level": "B1",
+  "forms": [
+   "chantiers"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "tableau de bord",
+  "en": "(m.) dashboard",
+  "level": "B1",
+  "forms": [
+   "tableaux de bord"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "néanmoins",
+  "en": "nevertheless",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "d'ailleurs",
+  "en": "besides, by the way",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "en revanche",
+  "en": "on the other hand",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "autrement dit",
+  "en": "in other words",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "quoique",
+  "en": "although (+ subjunctive)",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "ravi",
+  "en": "delighted",
+  "level": "B1",
+  "forms": [
+   "ravie",
+   "ravis",
+   "ravies"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "déçu",
+  "en": "disappointed",
+  "level": "B1",
+  "forms": [
+   "déçue",
+   "déçus",
+   "déçues"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "agacé",
+  "en": "annoyed",
+  "level": "B1",
+  "forms": [
+   "agacée",
+   "agacés",
+   "agacées"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "épanoui",
+  "en": "fulfilled, blossoming",
+  "level": "B1",
+  "forms": [
+   "épanouie",
+   "épanouis",
+   "épanouies"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "soulagé",
+  "en": "relieved",
+  "level": "B1",
+  "forms": [
+   "soulagée",
+   "soulagés",
+   "soulagées"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "inquiet",
+  "en": "worried",
+  "level": "B1",
+  "forms": [
+   "inquiète",
+   "inquiets",
+   "inquiètes"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "emménager",
+  "en": "to move in",
+  "level": "B1",
+  "forms": [
+   "emménage",
+   "emménager",
+   "emménagé",
+   "emménagerons"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "déménager",
+  "en": "to move out, relocate",
+  "level": "B1",
+  "forms": [
+   "déménage",
+   "déménager",
+   "déménagé",
+   "déménagera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "se tromper",
+  "en": "to be mistaken",
+  "level": "B1",
+  "forms": [
+   "trompe",
+   "tromper",
+   "trompé",
+   "trompais",
+   "trompera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "retard",
+  "en": "(m.) delay",
+  "level": "B1",
+  "forms": [
+   "retards"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "pourtant",
+  "en": "yet, however",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "cependant",
+  "en": "however",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "puisque",
+  "en": "since, as (known reason)",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "alors que",
+  "en": "whereas, while",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "afin de",
+  "en": "in order to",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "grâce à",
+  "en": "thanks to",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "plutôt",
+  "en": "rather, instead",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "en effet",
+  "en": "indeed, that's right",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "sans doute",
+  "en": "probably, no doubt",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "s'habituer",
+  "en": "to get used to",
+  "level": "B1",
+  "forms": [
+   "habitue",
+   "habituer",
+   "habitué",
+   "habituais",
+   "habituera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "se rappeler",
+  "en": "to remember, recall",
+  "level": "B1",
+  "forms": [
+   "rappelle",
+   "rappeler",
+   "rappelé",
+   "rappelais",
+   "rappellera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "s'inquiéter",
+  "en": "to worry",
+  "level": "B1",
+  "forms": [
+   "inquiète",
+   "inquiéter",
+   "inquiété",
+   "inquiétais",
+   "inquiétera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "s'énerver",
+  "en": "to get worked up",
+  "level": "B1",
+  "forms": [
+   "énerve",
+   "énerver",
+   "énervé",
+   "énervais",
+   "énervera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "hésiter",
+  "en": "to hesitate",
+  "level": "B1",
+  "forms": [
+   "hésite",
+   "hésiter",
+   "hésité",
+   "hésitais",
+   "hésitera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "prévoir",
+  "en": "to plan, foresee",
+  "level": "B1",
+  "forms": [
+   "prévois",
+   "prévoit",
+   "prévoir",
+   "prévu",
+   "prévoyait",
+   "prévoira"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "empêcher",
+  "en": "to prevent",
+  "level": "B1",
+  "forms": [
+   "empêche",
+   "empêcher",
+   "empêché",
+   "empêchait",
+   "empêchera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "convaincre",
+  "en": "to convince",
+  "level": "B1",
+  "forms": [
+   "convaincs",
+   "convainc",
+   "convaincre",
+   "convaincu",
+   "convainquait",
+   "convaincra"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "ranger",
+  "en": "to tidy, put away",
+  "level": "B1",
+  "forms": [
+   "range",
+   "ranger",
+   "rangé",
+   "rangeais",
+   "rangera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "jeter",
+  "en": "to throw away",
+  "level": "B1",
+  "forms": [
+   "jette",
+   "jeter",
+   "jeté",
+   "jetais",
+   "jettera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "brancher",
+  "en": "to plug in, connect",
+  "level": "B1",
+  "forms": [
+   "branche",
+   "brancher",
+   "branché",
+   "branchais",
+   "branchera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "démarrer",
+  "en": "to start, boot up",
+  "level": "B1",
+  "forms": [
+   "démarre",
+   "démarrer",
+   "démarré",
+   "démarrait",
+   "démarrera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "enregistrer",
+  "en": "to save, record",
+  "level": "B1",
+  "forms": [
+   "enregistre",
+   "enregistrer",
+   "enregistré",
+   "enregistrait",
+   "enregistrera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "panne",
+  "en": "(f.) breakdown, outage",
+  "level": "B1",
+  "forms": [
+   "pannes"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "poubelle",
+  "en": "(f.) trash can",
+  "level": "B1",
+  "forms": [
+   "poubelles"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "placard",
+  "en": "(m.) cupboard, closet",
+  "level": "B1",
+  "forms": [
+   "placards"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "serrure",
+  "en": "(f.) lock",
+  "level": "B1",
+  "forms": [
+   "serrures"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "quotidien",
+  "en": "(m.) daily life; adj. daily",
+  "level": "B1",
+  "forms": [
+   "quotidienne",
+   "quotidiens",
+   "quotidiennes"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "souci",
+  "en": "(m.) worry, issue",
+  "level": "B1",
+  "forms": [
+   "soucis"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "blague",
+  "en": "(f.) joke",
+  "level": "B1",
+  "forms": [
+   "blagues"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "pelouse",
+  "en": "(f.) lawn",
+  "level": "B1",
+  "forms": [
+   "pelouses"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "quartier",
+  "en": "(m.) neighbourhood",
+  "level": "B1",
+  "forms": [
+   "quartiers"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "couette",
+  "en": "(f.) duvet",
+  "level": "B1",
+  "forms": [
+   "couettes"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "volontiers",
+  "en": "gladly, willingly",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "davantage",
+  "en": "more, further",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "idiom",
+  "fr": "avoir du pain sur la planche",
+  "en": "to have a lot of work ahead",
+  "level": "B1",
+  "forms": [
+   "pain sur la planche"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ce n'est pas la mer à boire",
+  "en": "it's not that hard (informal: c'est pas la mer à boire)",
+  "level": "B1",
+  "forms": [
+   "mer à boire"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "du coup",
+  "en": "so, as a result (informal)",
+  "level": "B1",
+  "forms": [
+   "du coup"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "tant pis",
+  "en": "too bad, never mind",
+  "level": "B1",
+  "forms": [
+   "tant pis"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "il faut que je file",
+  "en": "I have to run (informal)",
+  "level": "B1",
+  "forms": [
+   "que je file"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "en avoir marre",
+  "en": "to be fed up (informal)",
+  "level": "B1",
+  "forms": [
+   "marre"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça me dit quelque chose",
+  "en": "that rings a bell",
+  "level": "B1",
+  "forms": [
+   "dit quelque chose"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "laisser tomber",
+  "en": "to drop it, give up (informal)",
+  "level": "B1",
+  "forms": [
+   "laisser tomber",
+   "laisse tomber",
+   "laissé tomber"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça marche",
+  "en": "OK, deal; it works (informal)",
+  "level": "B1",
+  "forms": [
+   "ça marche"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça m'arrange",
+  "en": "that suits me",
+  "level": "B1",
+  "forms": [
+   "ça m'arrange"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça m'est égal",
+  "en": "I don't mind, it's all the same to me",
+  "level": "B1",
+  "forms": [
+   "m'est égal"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "avoir hâte de",
+  "en": "to look forward to",
+  "level": "B1",
+  "forms": [
+   "hâte de"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "être à côté de la plaque",
+  "en": "to be off the mark (informal)",
+  "level": "B1",
+  "forms": [
+   "côté de la plaque"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "prendre son temps",
+  "en": "to take one's time",
+  "level": "B1",
+  "forms": [
+   "prendre son temps",
+   "prend son temps"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "se mettre d'accord",
+  "en": "to come to an agreement",
+  "level": "B1",
+  "forms": [
+   "mettre d'accord",
+   "mis d'accord"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "faire la queue",
+  "en": "to queue",
+  "level": "B1",
+  "forms": [
+   "faire la queue"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça vaut le coup",
+  "en": "it's worth it",
+  "level": "B1",
+  "forms": [
+   "vaut le coup"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça fait longtemps",
+  "en": "it's been a while",
+  "level": "B1",
+  "forms": [
+   "fait longtemps"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "avoir du mal à",
+  "en": "to have trouble doing",
+  "level": "B1",
+  "forms": [
+   "du mal à"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "en tout cas",
+  "en": "anyway, in any case",
+  "level": "B1",
+  "forms": [
+   "en tout cas"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "de toute façon",
+  "en": "anyway, in any case",
+  "level": "B1",
+  "forms": [
+   "de toute façon"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "au fait",
+  "en": "by the way",
+  "level": "B1",
+  "forms": [
+   "au fait"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "bref",
+  "en": "in short, anyway",
+  "level": "B1",
+  "forms": [
+   "bref"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "histoire de",
+  "en": "just to, for the sake of (informal)",
+  "level": "B1",
+  "forms": [
+   "histoire de"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça dépend",
+  "en": "it depends",
+  "level": "B1",
+  "forms": [
+   "ça dépend"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "c'est dommage",
+  "en": "it's a shame",
+  "level": "B1",
+  "forms": [
+   "c'est dommage"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça n'a rien à voir",
+  "en": "that has nothing to do with it",
+  "level": "B1",
+  "forms": [
+   "rien à voir"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça se peut",
+  "en": "it could be, maybe",
+  "level": "B1",
+  "forms": [
+   "ça se peut"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "je m'en fiche",
+  "en": "I don't care (informal)",
+  "level": "B1",
+  "forms": [
+   "m'en fiche"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "à mon avis",
+  "en": "in my opinion",
+  "level": "B1",
+  "forms": [
+   "à mon avis"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "tout compte fait",
+  "en": "all things considered",
+  "level": "B1",
+  "forms": [
+   "tout compte fait"
+  ]
+ },
+ {
+  "kind": "grammar",
+  "fr": "passé composé : auxiliaire être ou avoir (je suis allé, j'ai mangé)",
+  "en": "Motion/change verbs and all pronominals take être; most others avoir.",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "imparfait vs passé composé (il pleuvait quand je suis sorti)",
+  "en": "Imparfait = background, habit; passé composé = completed event.",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "futur proche et futur simple (je vais partir / je partirai)",
+  "en": "Aller + infinitive for near/certain plans; futur simple for less immediate or formal.",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "venir de / être en train de / aller (je viens de finir)",
+  "en": "Recent past, ongoing action, near future via present of venir de / être en train de / aller + infinitive.",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "depuis / il y a / ça fait (ça fait deux ans que j'habite ici)",
+  "en": "Depuis + present = ongoing; il y a = ago; ça fait... que = for.",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "pronom y (j'y vais, je n'y pense pas)",
+  "en": "Y replaces à/dans/chez + place or thing (not people with penser à).",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "pronom en (j'en ai trois, j'en viens)",
+  "en": "En replaces de + noun or a quantified noun (of it/them).",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "si + présent, futur (s'il pleut, je resterai)",
+  "en": "First conditional: si + present, main clause in future or imperative.",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "si + imparfait, conditionnel présent (si j'avais le temps, je viendrais)",
+  "en": "Second conditional: unreal or unlikely present; never conditionnel after si.",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "verbes pronominaux au passé composé (elle s'est levée)",
+  "en": "Pronominals use être; participle agrees with the reflexive pronoun if it is the direct object.",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "ne... plus / jamais / rien / personne (je n'ai vu personne)",
+  "en": "Negation pairs; ne... personne/rien placement differs: rien/personne can start the sentence.",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "comparatifs et superlatifs (le plus grand, meilleur que)",
+  "en": "Plus/moins/aussi... que; bon becomes meilleur, bien becomes mieux.",
+  "level": "B1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "échéance",
+  "en": "(f.) deadline, due date",
+  "level": "B2",
+  "forms": [
+   "échéances"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "ordre du jour",
+  "en": "(m.) agenda",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "désormais",
+  "en": "from now on, by now",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "auparavant",
+  "en": "beforehand, previously",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "tandis que",
+  "en": "while, whereas",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "par ailleurs",
+  "en": "moreover, elsewhere",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "notamment",
+  "en": "notably, in particular",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "certes",
+  "en": "admittedly, granted",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "nettement",
+  "en": "clearly, markedly",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "quasiment",
+  "en": "almost, nearly",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "dorénavant",
+  "en": "henceforth",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "s'en remettre",
+  "en": "to recover from; to rely on",
+  "level": "B2",
+  "forms": [
+   "remets",
+   "remet",
+   "remettre",
+   "remis",
+   "remettait",
+   "remettra"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "aboutir",
+  "en": "to succeed, lead to",
+  "level": "B2",
+  "forms": [
+   "aboutit",
+   "aboutir",
+   "abouti",
+   "aboutissait",
+   "aboutira"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "peaufiner",
+  "en": "to polish, fine-tune",
+  "level": "B2",
+  "forms": [
+   "peaufine",
+   "peaufiner",
+   "peaufiné",
+   "peaufinait",
+   "peaufinera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "s'avérer",
+  "en": "to prove to be",
+  "level": "B2",
+  "forms": [
+   "avère",
+   "avérer",
+   "avéré",
+   "avérait",
+   "avérera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "évoquer",
+  "en": "to mention, evoke",
+  "level": "B2",
+  "forms": [
+   "évoque",
+   "évoquer",
+   "évoqué",
+   "évoquait",
+   "évoquera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "soulever",
+  "en": "to raise (issue); to lift",
+  "level": "B2",
+  "forms": [
+   "soulève",
+   "soulever",
+   "soulevé",
+   "soulevait",
+   "soulèvera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "entreprendre",
+  "en": "to undertake",
+  "level": "B2",
+  "forms": [
+   "entreprends",
+   "entreprend",
+   "entreprendre",
+   "entrepris",
+   "entreprenait",
+   "entreprendra"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "dénicher",
+  "en": "to unearth, track down",
+  "level": "B2",
+  "forms": [
+   "déniche",
+   "dénicher",
+   "déniché",
+   "dénichait",
+   "dénichera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "ébranler",
+  "en": "to shake, undermine",
+  "level": "B2",
+  "forms": [
+   "ébranle",
+   "ébranler",
+   "ébranlé",
+   "ébranlait",
+   "ébranlera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "se méfier",
+  "en": "to be wary",
+  "level": "B2",
+  "forms": [
+   "méfie",
+   "méfier",
+   "méfié",
+   "méfiait",
+   "méfiera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "se heurter à",
+  "en": "to run up against",
+  "level": "B2",
+  "forms": [
+   "heurte",
+   "heurter",
+   "heurté",
+   "heurtait",
+   "heurtera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "négliger",
+  "en": "to neglect",
+  "level": "B2",
+  "forms": [
+   "néglige",
+   "négliger",
+   "négligé",
+   "négligeait",
+   "négligera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "esquiver",
+  "en": "to dodge, sidestep",
+  "level": "B2",
+  "forms": [
+   "esquive",
+   "esquiver",
+   "esquivé",
+   "esquivait",
+   "esquivera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "s'efforcer de",
+  "en": "to strive to",
+  "level": "B2",
+  "forms": [
+   "efforce",
+   "efforcer",
+   "efforcé",
+   "efforçait",
+   "efforcera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "tenir à",
+  "en": "to care about; to insist on",
+  "level": "B2",
+  "forms": [
+   "tiens",
+   "tient",
+   "tenir",
+   "tenu",
+   "tenait",
+   "tiendra"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "renoncer à",
+  "en": "to give up",
+  "level": "B2",
+  "forms": [
+   "renonce",
+   "renoncer",
+   "renoncé",
+   "renonçait",
+   "renoncera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "se rendre compte",
+  "en": "to realize",
+  "level": "B2",
+  "forms": [
+   "rends",
+   "rend",
+   "rendre",
+   "rendu",
+   "rendait",
+   "rendra"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "mener",
+  "en": "to lead, conduct",
+  "level": "B2",
+  "forms": [
+   "mène",
+   "mener",
+   "mené",
+   "menait",
+   "mènera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "déclencher",
+  "en": "to trigger, set off",
+  "level": "B2",
+  "forms": [
+   "déclenche",
+   "déclencher",
+   "déclenché",
+   "déclenchait",
+   "déclenchera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "aggraver",
+  "en": "to worsen",
+  "level": "B2",
+  "forms": [
+   "aggrave",
+   "aggraver",
+   "aggravé",
+   "aggravait",
+   "aggravera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "atténuer",
+  "en": "to ease, mitigate",
+  "level": "B2",
+  "forms": [
+   "atténue",
+   "atténuer",
+   "atténué",
+   "atténuait",
+   "atténuera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "entraver",
+  "en": "to hinder",
+  "level": "B2",
+  "forms": [
+   "entrave",
+   "entraver",
+   "entravé",
+   "entravait",
+   "entravera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "recueillir",
+  "en": "to gather, collect",
+  "level": "B2",
+  "forms": [
+   "recueille",
+   "recueillir",
+   "recueilli",
+   "recueillait",
+   "recueillera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "relancer",
+  "en": "to restart; to follow up with",
+  "level": "B2",
+  "forms": [
+   "relance",
+   "relancer",
+   "relancé",
+   "relançait",
+   "relancera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "rattraper",
+  "en": "to catch up, make up for",
+  "level": "B2",
+  "forms": [
+   "rattrape",
+   "rattraper",
+   "rattrapé",
+   "rattrapait",
+   "rattrapera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "trier",
+  "en": "to sort, filter",
+  "level": "B2",
+  "forms": [
+   "trie",
+   "trier",
+   "trié",
+   "triait",
+   "triera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "bricoler",
+  "en": "to tinker, DIY",
+  "level": "B2",
+  "forms": [
+   "bricole",
+   "bricoler",
+   "bricolé",
+   "bricolait",
+   "bricolera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "fouiller",
+  "en": "to rummage, dig through",
+  "level": "B2",
+  "forms": [
+   "fouille",
+   "fouiller",
+   "fouillé",
+   "fouillait",
+   "fouillera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "griffonner",
+  "en": "to scribble",
+  "level": "B2",
+  "forms": [
+   "griffonne",
+   "griffonner",
+   "griffonné",
+   "griffonnait",
+   "griffonnera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "bilan",
+  "en": "(m.) assessment, outcome, review",
+  "level": "B2",
+  "forms": [
+   "bilans"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "enjeu",
+  "en": "(m.) stake",
+  "level": "B2",
+  "forms": [
+   "enjeux"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "atout",
+  "en": "(m.) asset, advantage",
+  "level": "B2",
+  "forms": [
+   "atouts"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "inconvénient",
+  "en": "(m.) drawback",
+  "level": "B2",
+  "forms": [
+   "inconvénients"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "lacune",
+  "en": "(f.) gap, shortcoming",
+  "level": "B2",
+  "forms": [
+   "lacunes"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "démarche",
+  "en": "(f.) approach, procedure",
+  "level": "B2",
+  "forms": [
+   "démarches"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "contretemps",
+  "en": "(m.) hitch, setback",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "imprévu",
+  "en": "(m.) unforeseen event; adj. unexpected",
+  "level": "B2",
+  "forms": [
+   "imprévus",
+   "imprévue",
+   "imprévues"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "délai",
+  "en": "(m.) time limit, lead time",
+  "level": "B2",
+  "forms": [
+   "délais"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "maillon",
+  "en": "(m.) link (in a chain)",
+  "level": "B2",
+  "forms": [
+   "maillons"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "refonte",
+  "en": "(f.) overhaul, rebuild",
+  "level": "B2",
+  "forms": [
+   "refontes"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "dépôt",
+  "en": "(m.) repository; deposit",
+  "level": "B2",
+  "forms": [
+   "dépôts"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "relecture",
+  "en": "(f.) proofreading, review",
+  "level": "B2",
+  "forms": [
+   "relectures"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "retombées",
+  "en": "(f. pl.) fallout, spin-offs",
+  "level": "B2",
+  "forms": [
+   "retombée"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "fiable",
+  "en": "reliable",
+  "level": "B2",
+  "forms": [
+   "fiables"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "chevronné",
+  "en": "seasoned, experienced",
+  "level": "B2",
+  "forms": [
+   "chevronnée",
+   "chevronnés",
+   "chevronnées"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "tatillon",
+  "en": "nitpicky, fussy",
+  "level": "B2",
+  "forms": [
+   "tatillonne",
+   "tatillons",
+   "tatillonnes"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "têtu",
+  "en": "stubborn",
+  "level": "B2",
+  "forms": [
+   "têtue",
+   "têtus",
+   "têtues"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "lassé",
+  "en": "weary, tired of",
+  "level": "B2",
+  "forms": [
+   "lassée",
+   "lassés",
+   "lassées"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "pointilleux",
+  "en": "particular, meticulous",
+  "level": "B2",
+  "forms": [
+   "pointilleuse",
+   "pointilleux",
+   "pointilleuses"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "vétuste",
+  "en": "dilapidated, outdated",
+  "level": "B2",
+  "forms": [
+   "vétustes"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "flou",
+  "en": "blurry, vague",
+  "level": "B2",
+  "forms": [
+   "floue",
+   "flous",
+   "floues"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "fastidieux",
+  "en": "tedious",
+  "level": "B2",
+  "forms": [
+   "fastidieuse",
+   "fastidieux",
+   "fastidieuses"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "bancal",
+  "en": "wobbly, shaky",
+  "level": "B2",
+  "forms": [
+   "bancale",
+   "bancals",
+   "bancales"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "aguerri",
+  "en": "battle-hardened, seasoned",
+  "level": "B2",
+  "forms": [
+   "aguerrie",
+   "aguerris",
+   "aguerries"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "éphémère",
+  "en": "short-lived, fleeting",
+  "level": "B2",
+  "forms": [
+   "éphémères"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "minutieux",
+  "en": "meticulous",
+  "level": "B2",
+  "forms": [
+   "minutieuse",
+   "minutieux",
+   "minutieuses"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "soucieux",
+  "en": "concerned, mindful",
+  "level": "B2",
+  "forms": [
+   "soucieuse",
+   "soucieux",
+   "soucieuses"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "méfiant",
+  "en": "distrustful",
+  "level": "B2",
+  "forms": [
+   "méfiante",
+   "méfiants",
+   "méfiantes"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "coup de main",
+  "en": "(m.) helping hand",
+  "level": "B2",
+  "forms": [
+   "coup de main"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "poser un lapin",
+  "en": "to stand someone up (informal)",
+  "level": "B2",
+  "forms": [
+   "poser un lapin",
+   "posé un lapin"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "avoir un coup de barre",
+  "en": "to hit a wall of tiredness",
+  "level": "B2",
+  "forms": [
+   "coup de barre"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "coup de foudre",
+  "en": "love at first sight; sudden strong liking",
+  "level": "B2",
+  "forms": [
+   "coup de foudre"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "casser les pieds à quelqu'un",
+  "en": "to annoy someone (informal)",
+  "level": "B2",
+  "forms": [
+   "casser les pieds",
+   "casse les pieds"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ne pas en revenir",
+  "en": "to be unable to get over it",
+  "level": "B2",
+  "forms": [
+   "en reviens pas",
+   "en revenir"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "tourner en rond",
+  "en": "to go in circles",
+  "level": "B2",
+  "forms": [
+   "tourner en rond",
+   "tourne en rond"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "passer à côté de",
+  "en": "to miss out on",
+  "level": "B2",
+  "forms": [
+   "passer à côté",
+   "passé à côté"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "se creuser la tête",
+  "en": "to rack one's brains",
+  "level": "B2",
+  "forms": [
+   "creuser la tête"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "mettre les points sur les i",
+  "en": "to spell it out",
+  "level": "B2",
+  "forms": [
+   "points sur les i"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "avoir le cafard",
+  "en": "to feel down",
+  "level": "B2",
+  "forms": [
+   "le cafard"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "avoir un trou de mémoire",
+  "en": "to have a memory lapse",
+  "level": "B2",
+  "forms": [
+   "trou de mémoire"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça tombe bien",
+  "en": "that's convenient, good timing",
+  "level": "B2",
+  "forms": [
+   "tombe bien"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "à la bonne franquette",
+  "en": "simply, without fuss",
+  "level": "B2",
+  "forms": [
+   "bonne franquette"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "être sur la même longueur d'onde",
+  "en": "to be on the same wavelength",
+  "level": "B2",
+  "forms": [
+   "même longueur d'onde"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "mettre la main à la pâte",
+  "en": "to pitch in, get hands dirty",
+  "level": "B2",
+  "forms": [
+   "main à la pâte"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "prendre à cœur",
+  "en": "to take to heart",
+  "level": "B2",
+  "forms": [
+   "à cœur"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "faire d'une pierre deux coups",
+  "en": "to kill two birds with one stone",
+  "level": "B2",
+  "forms": [
+   "pierre deux coups"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "tomber à l'eau",
+  "en": "to fall through (plans)",
+  "level": "B2",
+  "forms": [
+   "tombé à l'eau",
+   "tomber à l'eau"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "au pied levé",
+  "en": "at a moment's notice",
+  "level": "B2",
+  "forms": [
+   "pied levé"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "avoir sur le bout de la langue",
+  "en": "to have on the tip of one's tongue",
+  "level": "B2",
+  "forms": [
+   "bout de la langue"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "se mettre à la place de",
+  "en": "to put oneself in someone's shoes",
+  "level": "B2",
+  "forms": [
+   "mettre à la place"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "en avoir le cœur net",
+  "en": "to get to the bottom of it",
+  "level": "B2",
+  "forms": [
+   "cœur net"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "à tout hasard",
+  "en": "just in case, on the off chance",
+  "level": "B2",
+  "forms": [
+   "tout hasard"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "de fil en aiguille",
+  "en": "one thing leading to another",
+  "level": "B2",
+  "forms": [
+   "fil en aiguille"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "dans les temps",
+  "en": "on schedule, within the deadline",
+  "level": "B2",
+  "forms": [
+   "dans les temps"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ne pas être dans son assiette",
+  "en": "to feel off, under the weather",
+  "level": "B2",
+  "forms": [
+   "dans son assiette"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "avoir la flemme",
+  "en": "to be too lazy (informal)",
+  "level": "B2",
+  "forms": [
+   "la flemme"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "chercher midi à quatorze heures",
+  "en": "to overcomplicate things",
+  "level": "B2",
+  "forms": [
+   "midi à quatorze heures"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "revenir à ses moutons",
+  "en": "to get back to the point",
+  "level": "B2",
+  "forms": [
+   "à nos moutons",
+   "à ses moutons"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "ça ne tient pas debout",
+  "en": "it doesn't hold water",
+  "level": "B2",
+  "forms": [
+   "tient pas debout"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "en un clin d'œil",
+  "en": "in the blink of an eye",
+  "level": "B2",
+  "forms": [
+   "clin d'œil"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "mine de rien",
+  "en": "casually, without seeming to (informal)",
+  "level": "B2",
+  "forms": [
+   "mine de rien"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "c'est la goutte d'eau qui fait déborder le vase",
+  "en": "the last straw",
+  "level": "B2",
+  "forms": [
+   "goutte d'eau"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "à vrai dire",
+  "en": "to tell the truth",
+  "level": "B2",
+  "forms": [
+   "à vrai dire"
+  ]
+ },
+ {
+  "kind": "grammar",
+  "fr": "subjonctif après il faut que (il faut que tu viennes)",
+  "en": "Necessity, wish and emotion triggers (il faut que, vouloir que, avoir peur que) require the subjunctive.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "subjonctif après bien que (bien qu'il soit tard)",
+  "en": "Concession with bien que / quoique takes subjunctive; même si takes the indicative.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "subjonctif après pour que / avant que (pour qu'il comprenne)",
+  "en": "Purpose and time-before conjunctions (pour que, afin que, avant que, jusqu'à ce que) take subjunctive.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "subjonctif après à moins que (à moins qu'il ne pleuve)",
+  "en": "À moins que / sans que / pourvu que take subjunctive; often with an optional ne explétif.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "subjonctif après doute vs certitude (je doute qu'il vienne / je suis sûr qu'il viendra)",
+  "en": "Doubt, denial and negated certainty take subjunctive; affirmed certainty takes indicative.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "bien que vs même si (bien qu'il pleuve / même si il pleut)",
+  "en": "Bien que + subjunctive states a real concession; même si + indicative is hypothetical or conceding.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "plus-que-parfait (j'avais fini quand il est arrivé)",
+  "en": "Avoir/être in the imparfait + participle: an action completed before another past action.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "conditionnel passé (j'aurais dû t'écouter)",
+  "en": "Avoir/être in conditionnel + participle: regret, unreal past, reported uncertainty.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "si + plus-que-parfait, conditionnel passé (si j'avais su, je serais venu)",
+  "en": "Third conditional: an unreal past condition and its unreal past result.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "futur antérieur (quand j'aurai fini, je t'appellerai)",
+  "en": "Futur of avoir/être + participle: action completed before a future point; also conjecture.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "accord du participe passé avec avoir (les clés que j'ai perdues)",
+  "en": "Participle agrees with a COD placed before the verb, not with one after.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "ordre des pronoms (je le lui ai dit, il y en a)",
+  "en": "Order: me/te/se/nous/vous, le/la/les, lui/leur, y, en.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "pronoms relatifs qui/que/où (l'homme que je connais)",
+  "en": "Qui = subject, que = direct object, où = place or time.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "pronom relatif dont (le livre dont je parle)",
+  "en": "Dont replaces de + noun: dont je parle, dont le titre.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "lequel / auquel / duquel (la raison pour laquelle, le film auquel je pense)",
+  "en": "Lequel after prepositions for things; auquel = à + lequel, duquel = de + lequel.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "ce qui / ce que / ce dont (ce qui m'inquiète, ce dont j'ai besoin)",
+  "en": "Ce + relative for 'what': qui = subject, que = object, dont = de.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "participe présent et gérondif (en faisant, ayant fini)",
+  "en": "En + -ant = while/by doing; bare participe présent = adjective-like or written clause.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "faire causatif (je l'ai fait réparer)",
+  "en": "Faire + infinitive = to have something done; participle fait stays invariable.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "inversion interrogative (Où habites-tu ? Où Marie habite-t-elle ?)",
+  "en": "Verb-subject inversion in formal questions; -t- inserted between vowels.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "mise en relief c'est... qui/que (c'est lui qui a appelé)",
+  "en": "C'est + element + qui/que highlights part of the sentence.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "ne... que (je n'ai que deux euros)",
+  "en": "Restrictive: only. Equivalent to seulement.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "passif vs on (le livre a été lu / on parle français)",
+  "en": "Passive with être + participle; French often prefers on or a pronominal instead.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "discours indirect et concordance (il a dit qu'il viendrait)",
+  "en": "Reported speech shifts tense: présent to imparfait, futur to conditionnel.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "adjectifs et pronoms indéfinis (chacun, aucun, quelques-uns, certains)",
+  "en": "Indefinites replace nouns or modify them; aucun takes ne.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "connecteurs logiques : opposition, cause, conséquence (pourtant, car, donc)",
+  "en": "Placement and mood: puisque/car (cause), donc/ainsi (consequence), pourtant/cependant (contrast).",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "il y a / depuis / pendant / dans (dans deux jours, pendant deux jours)",
+  "en": "Dans = in (future), pendant = during, depuis = since, il y a = ago.",
+  "level": "B2",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "ruissellement",
+  "en": "(m.) runoff; trickle-down",
+  "level": "C1",
+  "forms": [
+   "ruissellements"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "foisonner",
+  "en": "to abound, teem",
+  "level": "C1",
+  "forms": [
+   "foisonne",
+   "foisonnent",
+   "foisonner",
+   "foisonné",
+   "foisonnait"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "pallier",
+  "en": "to make up for, mitigate",
+  "level": "C1",
+  "forms": [
+   "pallie",
+   "pallier",
+   "pallié",
+   "palliait",
+   "palliera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "étayer",
+  "en": "to back up, support (argument)",
+  "level": "C1",
+  "forms": [
+   "étaye",
+   "étayer",
+   "étayé",
+   "étayait",
+   "étayera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "corroborer",
+  "en": "to corroborate",
+  "level": "C1",
+  "forms": [
+   "corrobore",
+   "corroborer",
+   "corroboré",
+   "corroborait",
+   "corroborera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "entériner",
+  "en": "to ratify, rubber-stamp",
+  "level": "C1",
+  "forms": [
+   "entérine",
+   "entériner",
+   "entériné",
+   "entérinait",
+   "entérinera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "s'enliser",
+  "en": "to get bogged down",
+  "level": "C1",
+  "forms": [
+   "enlise",
+   "enliser",
+   "enlisé",
+   "enlisait",
+   "enlisera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "ébaucher",
+  "en": "to sketch out, draft",
+  "level": "C1",
+  "forms": [
+   "ébauche",
+   "ébaucher",
+   "ébauché",
+   "ébauchait",
+   "ébauchera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "esquisser",
+  "en": "to outline, sketch",
+  "level": "C1",
+  "forms": [
+   "esquisse",
+   "esquisser",
+   "esquissé",
+   "esquissait",
+   "esquissera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "démêler",
+  "en": "to untangle",
+  "level": "C1",
+  "forms": [
+   "démêle",
+   "démêler",
+   "démêlé",
+   "démêlait",
+   "démêlera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "mitigé",
+  "en": "mixed, lukewarm",
+  "level": "C1",
+  "forms": [
+   "mitigée",
+   "mitigés",
+   "mitigées"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "fallacieux",
+  "en": "misleading, specious",
+  "level": "C1",
+  "forms": [
+   "fallacieuse",
+   "fallacieux",
+   "fallacieuses"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "dérisoire",
+  "en": "paltry, derisory",
+  "level": "C1",
+  "forms": [
+   "dérisoires"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "ardu",
+  "en": "arduous, tough",
+  "level": "C1",
+  "forms": [
+   "ardue",
+   "ardus",
+   "ardues"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "évincer",
+  "en": "to oust, edge out",
+  "level": "C1",
+  "forms": [
+   "évince",
+   "évincer",
+   "évincé",
+   "évinçait",
+   "évincera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "délaisser",
+  "en": "to neglect, abandon",
+  "level": "C1",
+  "forms": [
+   "délaisse",
+   "délaisser",
+   "délaissé",
+   "délaissait",
+   "délaissera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "ternir",
+  "en": "to tarnish",
+  "level": "C1",
+  "forms": [
+   "ternit",
+   "ternir",
+   "terni",
+   "ternissait",
+   "ternira"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "nuancer",
+  "en": "to qualify, add nuance to",
+  "level": "C1",
+  "forms": [
+   "nuance",
+   "nuancer",
+   "nuancé",
+   "nuançait",
+   "nuancera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "saper",
+  "en": "to undermine",
+  "level": "C1",
+  "forms": [
+   "sape",
+   "saper",
+   "sapé",
+   "sapait",
+   "sapera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "cloisonner",
+  "en": "to compartmentalize, silo",
+  "level": "C1",
+  "forms": [
+   "cloisonne",
+   "cloisonner",
+   "cloisonné",
+   "cloisonnait",
+   "cloisonnera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "pérenniser",
+  "en": "to make lasting",
+  "level": "C1",
+  "forms": [
+   "pérennise",
+   "pérenniser",
+   "pérennisé",
+   "pérennisait",
+   "pérennisera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "aléatoire",
+  "en": "random, uncertain",
+  "level": "C1",
+  "forms": [
+   "aléatoires"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "pléthore",
+  "en": "(f.) glut, plethora",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "intarissable",
+  "en": "inexhaustible",
+  "level": "C1",
+  "forms": [
+   "intarissables"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "rancœur",
+  "en": "(f.) resentment",
+  "level": "C1",
+  "forms": [
+   "rancœurs"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "désœuvré",
+  "en": "idle, at a loose end",
+  "level": "C1",
+  "forms": [
+   "désœuvrée",
+   "désœuvrés",
+   "désœuvrées"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "s'accommoder de",
+  "en": "to make do with",
+  "level": "C1",
+  "forms": [
+   "accommode",
+   "accommoder",
+   "accommodé",
+   "accommodait",
+   "accommodera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "déjouer",
+  "en": "to thwart, foil",
+  "level": "C1",
+  "forms": [
+   "déjoue",
+   "déjouer",
+   "déjoué",
+   "déjouait",
+   "déjouera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "sciemment",
+  "en": "knowingly, deliberately",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "d'emblée",
+  "en": "right away, from the outset",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "au demeurant",
+  "en": "moreover, for the rest",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "tantôt",
+  "en": "sometimes... sometimes",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "subrepticement",
+  "en": "surreptitiously",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "word",
+  "fr": "étriqué",
+  "en": "narrow, cramped",
+  "level": "C1",
+  "forms": [
+   "étriquée",
+   "étriqués",
+   "étriquées"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "affable",
+  "en": "affable, genial",
+  "level": "C1",
+  "forms": [
+   "affables"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "hâtif",
+  "en": "hasty",
+  "level": "C1",
+  "forms": [
+   "hâtive",
+   "hâtifs",
+   "hâtives"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "tributaire",
+  "en": "dependent (on)",
+  "level": "C1",
+  "forms": [
+   "tributaires"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "épineux",
+  "en": "thorny, tricky",
+  "level": "C1",
+  "forms": [
+   "épineuse",
+   "épineux",
+   "épineuses"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "chevauchement",
+  "en": "(m.) overlap",
+  "level": "C1",
+  "forms": [
+   "chevauchements"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "contourner",
+  "en": "to bypass, get around",
+  "level": "C1",
+  "forms": [
+   "contourne",
+   "contourner",
+   "contourné",
+   "contournait",
+   "contournera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "déboucher sur",
+  "en": "to lead to, result in",
+  "level": "C1",
+  "forms": [
+   "débouche",
+   "déboucher",
+   "débouché",
+   "débouchait",
+   "débouchera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "surseoir à",
+  "en": "to postpone, defer",
+  "level": "C1",
+  "forms": [
+   "sursois",
+   "sursoit",
+   "surseoir",
+   "sursis",
+   "sursoyait",
+   "sursoira"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "se prévaloir de",
+  "en": "to take advantage of; to claim",
+  "level": "C1",
+  "forms": [
+   "prévaut",
+   "prévaloir",
+   "prévalu",
+   "prévalait",
+   "prévaudra"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "tarir",
+  "en": "to dry up",
+  "level": "C1",
+  "forms": [
+   "tarit",
+   "tarir",
+   "tari",
+   "tarissait",
+   "tarira"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "écueil",
+  "en": "(m.) pitfall, stumbling block",
+  "level": "C1",
+  "forms": [
+   "écueils"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "garde-fou",
+  "en": "(m.) safeguard, guardrail",
+  "level": "C1",
+  "forms": [
+   "garde-fous"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "tâtonnement",
+  "en": "(m.) trial and error",
+  "level": "C1",
+  "forms": [
+   "tâtonnements"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "infléchir",
+  "en": "to bend, shift (course)",
+  "level": "C1",
+  "forms": [
+   "infléchit",
+   "infléchir",
+   "infléchi",
+   "infléchissait",
+   "infléchira"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "dissiper",
+  "en": "to dispel, clear up",
+  "level": "C1",
+  "forms": [
+   "dissipe",
+   "dissiper",
+   "dissipé",
+   "dissipait",
+   "dissipera"
+  ]
+ },
+ {
+  "kind": "word",
+  "fr": "relayer",
+  "en": "to relay, pass on",
+  "level": "C1",
+  "forms": [
+   "relaie",
+   "relayer",
+   "relayé",
+   "relayait",
+   "relayera"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "pour autant",
+  "en": "even so, for all that",
+  "level": "C1",
+  "forms": [
+   "pour autant"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "force est de constater que",
+  "en": "one is forced to note that",
+  "level": "C1",
+  "forms": [
+   "force est de"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "en l'occurrence",
+  "en": "in this case",
+  "level": "C1",
+  "forms": [
+   "en l'occurrence"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "à l'insu de",
+  "en": "without the knowledge of",
+  "level": "C1",
+  "forms": [
+   "à l'insu de"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "au détriment de",
+  "en": "to the detriment of",
+  "level": "C1",
+  "forms": [
+   "au détriment"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "quoi qu'il en soit",
+  "en": "be that as it may",
+  "level": "C1",
+  "forms": [
+   "quoi qu'il en soit"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "en définitive",
+  "en": "ultimately, when all is said and done",
+  "level": "C1",
+  "forms": [
+   "en définitive"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "faute de quoi",
+  "en": "failing which",
+  "level": "C1",
+  "forms": [
+   "faute de quoi"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "tant bien que mal",
+  "en": "somehow, after a fashion",
+  "level": "C1",
+  "forms": [
+   "tant bien que mal"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "de longue haleine",
+  "en": "long-term, requiring sustained effort",
+  "level": "C1",
+  "forms": [
+   "longue haleine"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "à bon escient",
+  "en": "judiciously, advisedly",
+  "level": "C1",
+  "forms": [
+   "bon escient"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "mettre à mal",
+  "en": "to jeopardize, severely damage",
+  "level": "C1",
+  "forms": [
+   "mettre à mal",
+   "mis à mal"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "jeter un pavé dans la mare",
+  "en": "to stir things up",
+  "level": "C1",
+  "forms": [
+   "pavé dans la mare"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "noyer le poisson",
+  "en": "to muddy the waters, dodge the issue",
+  "level": "C1",
+  "forms": [
+   "noyer le poisson"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "tirer son épingle du jeu",
+  "en": "to come out well, manage to profit",
+  "level": "C1",
+  "forms": [
+   "épingle du jeu"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "renvoyer l'ascenseur",
+  "en": "to return the favour",
+  "level": "C1",
+  "forms": [
+   "renvoyer l'ascenseur"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "sans coup férir",
+  "en": "without a fight, effortlessly",
+  "level": "C1",
+  "forms": [
+   "sans coup férir"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "mettre en exergue",
+  "en": "to highlight, emphasize",
+  "level": "C1",
+  "forms": [
+   "en exergue"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "faire fi de",
+  "en": "to disregard, flout",
+  "level": "C1",
+  "forms": [
+   "fait fi",
+   "faire fi"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "battre en brèche",
+  "en": "to challenge, undermine",
+  "level": "C1",
+  "forms": [
+   "en brèche"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "s'en tenir à",
+  "en": "to stick to, limit oneself to",
+  "level": "C1",
+  "forms": [
+   "en tenir à",
+   "s'en tient à"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "à l'aune de",
+  "en": "by the yardstick of",
+  "level": "C1",
+  "forms": [
+   "à l'aune"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "il n'en demeure pas moins que",
+  "en": "the fact remains that",
+  "level": "C1",
+  "forms": [
+   "n'en demeure pas moins"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "couper l'herbe sous le pied",
+  "en": "to pre-empt, steal a march on",
+  "level": "C1",
+  "forms": [
+   "herbe sous le pied"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "avoir le vent en poupe",
+  "en": "to be riding high, gaining momentum",
+  "level": "C1",
+  "forms": [
+   "vent en poupe"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "passer l'éponge",
+  "en": "to let it slide, forgive and forget",
+  "level": "C1",
+  "forms": [
+   "passer l'éponge"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "au gré de",
+  "en": "at the whim of; according to",
+  "level": "C1",
+  "forms": [
+   "au gré de"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "en dépit de",
+  "en": "despite",
+  "level": "C1",
+  "forms": [
+   "en dépit de"
+  ]
+ },
+ {
+  "kind": "idiom",
+  "fr": "à tout bout de champ",
+  "en": "constantly, at every turn",
+  "level": "C1",
+  "forms": [
+   "bout de champ"
+  ]
+ },
+ {
+  "kind": "grammar",
+  "fr": "passé simple (reconnaissance) (il ouvrit la porte et sortit)",
+  "en": "Literary narrative past tense; recognize -a/-it/-ut/-int endings in reading.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "ne explétif (je crains qu'il ne vienne)",
+  "en": "Optional ne with no negative meaning after craindre que, avant que, à moins que, comparatives.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "ne... guère (il ne dort guère)",
+  "en": "Literary negation meaning hardly, scarcely.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "ne... ni... ni (il n'a ni argent ni temps)",
+  "en": "Neither... nor; articles drop, no ne doubling of pas.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "subjonctif imparfait et plus-que-parfait (reconnaissance) (qu'il fût, qu'il eût dit)",
+  "en": "Literary subjunctive past forms; recognize them in formal prose.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "subjonctif après superlatif et seul (le seul qui soit venu)",
+  "en": "Relatives after superlatives, seul, premier, dernier often take subjunctive.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "subjonctif dans les relatives de but (je cherche quelqu'un qui sache)",
+  "en": "Subjunctive for a sought but unspecified or unknown target.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "inversion après adverbes (peut-être est-il, aussi est-ce, à peine était-il)",
+  "en": "Formal inversion after peut-être, sans doute, à peine, aussi (= therefore), ainsi.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "proposition participiale (le travail terminé, il partit)",
+  "en": "Absolute construction with its own subject: once X had happened.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "gérondif vs participe présent (accord) (une femme charmante / en la voyant)",
+  "en": "Adjective agrees; participe présent doesn't; gérondif requires same subject.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "expression de la concession : quelque... que, si... que (si grand qu'il soit)",
+  "en": "Concessive patterns with subjunctive: quelque... que, tout... que, si... que.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "conditionnel de l'information incertaine (le ministre serait en route)",
+  "en": "Conditional used in press to report unconfirmed facts.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "infinitif de narration et infinitif passé (après avoir fini)",
+  "en": "Infinitif passé for completed prior action; après + infinitif passé.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "mise en relief : ce qui... c'est (ce qui m'étonne, c'est son calme)",
+  "en": "Pseudo-cleft emphasis: ce qui/que/dont... c'est.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "pronoms relatifs composés (celui dont, ceux auxquels, tout ce que)",
+  "en": "Antecedent plus relative: celui qui, celui dont, ce à quoi.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "passé antérieur (dès qu'il eut fini)",
+  "en": "Auxiliary in passé simple + participle; used after quand/dès que with passé simple.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "avoir beau (il a beau essayer, il échoue)",
+  "en": "Avoir beau + infinitive = however much one tries, in vain.",
+  "level": "C1",
+  "forms": []
+ },
+ {
+  "kind": "grammar",
+  "fr": "négation avec sans (sans que... ne, sans aucun)",
+  "en": "Sans que + subjunctive; sans + noun without article.",
+  "level": "C1",
+  "forms": []
+ }
+]
