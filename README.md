@@ -8,6 +8,7 @@
 
 - **A word bank.** About 330 starting items at B1 to C1 level: words, idioms, and grammar structures (subjonctif triggers, *dont*/*lequel*, pronoun order, *faire* causatif, …). Each item is `new`, `active`, `shaky` or `solid`.
 - **A brief on every reply.** A short instruction of about 300 tokens says how much French to use (level 1–5) and offers 8 items from the rotation to work in. It never adds translations: when something isn't clear, you ask, and that question is the signal.
+- **Practice the other way.** When you write in French, the reply corrects your mistakes and suggests a more natural, casual way to say it. About one reply in ten (set `ask_chance` in the bank, 0 to turn it off) ends by inviting you to answer in French.
 - **A nightly pass.** It reads the day's conversations:
   - A word or idiom that appears in a reply counts as an exposure for that day.
   - One model call looks for what you asked about or misread ("c'est quoi *ruissellement* ?", "why *soit* and not *est*?"). Those items become **shaky** and come back more often.

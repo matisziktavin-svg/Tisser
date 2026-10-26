@@ -121,13 +121,23 @@ class BriefTests(unittest.TestCase):
     def test_brief_content(self):
         b = make()
         B.record_ask(B.find(b, "tiroir"), D0)
-        text = BR.build(b, "chat", dt.datetime(2026, 10, 1, 9))
+        text = BR.build(b, "chat", dt.datetime(2026, 10, 1, 9), roll=0.0)
         self.assertIn("level 3/5", text)
         self.assertIn("Recently asked about", text)
         self.assertIn("- tiroir", text)
         self.assertIn("subjonctif après bien que (bien que + subj.)", text)
         self.assertIn("No French at all", text)
         self.assertLess(len(text), 2600)
+
+    def test_feedback_rule_always_on(self):
+        self.assertIn("writes to you in French", BR.build(make(), "chat", roll=0.99))
+
+    def test_reply_in_french_invite_is_a_roll(self):
+        self.assertIn("This reply only", BR.build(make(), "chat", roll=0.05))
+        self.assertNotIn("This reply only", BR.build(make(), "chat", roll=0.10))
+        b = make()
+        b["ask_chance"] = 0
+        self.assertNotIn("This reply only", BR.build(b, "chat", roll=0.0))
 
     def test_message_surface(self):
         self.assertIn("JSON keys", BR.build(make(), "message"))

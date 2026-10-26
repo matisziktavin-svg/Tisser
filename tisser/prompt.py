@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import datetime as dt
 import hashlib
+import random
 from pathlib import Path
 from typing import Optional
 
@@ -11,6 +12,7 @@ from . import bank as B
 
 PICK = 8          # items offered per turn
 MAX_SHAKY = 4     # of which at most this many shaky ones
+ASK_CHANCE = 0.10  # per reply: invite the user to answer in French (bank "ask_chance" overrides)
 
 LEVELS = {
     1: "about 10% French: single words and short phrases inside English sentences",
@@ -47,6 +49,19 @@ RULES = (
     "if relevant), then carry on at the same level."
 )
 
+FEEDBACK = (
+    "When the user writes to you in French (a phrase or a whole message), answer what they said "
+    "first, then add a short note: each mistake with the corrected form, and, where it helps, a "
+    "more casual, natural way people would say it in everyday French today. Skip the note when "
+    "there is nothing worth fixing. No praise filler."
+)
+
+ASK = (
+    "This reply only: end it with one short line in French inviting the user to answer you in "
+    "French (vary the wording). Skip it if the reply is a warning or error, or is about health, "
+    "money, legal matters, safety or an emergency."
+)
+
 
 def _rotation_key(item_id: str, salt: str) -> str:
     return hashlib.sha1(f"{salt}:{item_id}".encode()).hexdigest()
@@ -69,7 +84,9 @@ def _line(item: dict) -> str:
     return f"- {item['fr']} ({item['en']})" if item["kind"] == "grammar" else f"- {item['fr']}"
 
 
-def build(bank: dict, surface: str = "chat", now: Optional[dt.datetime] = None) -> str:
+def build(bank: dict, surface: str = "chat", now: Optional[dt.datetime] = None,
+          roll: Optional[float] = None) -> str:
+    """roll: a number in [0, 1) for the reply-in-French invite (random when None)."""
     level = bank.get("level", B.DEFAULT_LEVEL)
     items = pick(bank, now)
     shaky = [i for i in items if i["status"] == "shaky"]
@@ -79,7 +96,11 @@ def build(bank: dict, surface: str = "chat", now: Optional[dt.datetime] = None) 
         f"French from slipping. Weave French into {SURFACES.get(surface, SURFACES['chat'])} at "
         f"level {level}/5: {LEVELS.get(level, LEVELS[B.DEFAULT_LEVEL])}.",
         RULES,
+        FEEDBACK,
     ]
+    chance = bank.get("ask_chance", ASK_CHANCE)
+    if (random.random() if roll is None else roll) < chance:
+        parts.append(ASK)
     if items:
         parts.append(
             "Work in 2-4 of these where they fit naturally (never force one; grammar items "
