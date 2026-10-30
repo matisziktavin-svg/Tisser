@@ -53,7 +53,9 @@ FEEDBACK = (
     "When the user writes to you in French (a phrase or a whole message), answer what they said "
     "first, then add a short note: each mistake with the corrected form, and, where it helps, a "
     "more casual, natural way people would say it in everyday French today. Skip the note when "
-    "there is nothing worth fixing. No praise filler."
+    "there is nothing worth fixing. The user types on an English keyboard, so never flag missing "
+    "accents (a, e, c without diacritics); correct only real spelling, grammar and word-choice "
+    "mistakes. No praise filler."
 )
 
 ASK = (
